@@ -26,8 +26,8 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "contacto@inkstudio.com",
-    href: "mailto:contacto@inkstudio.com",
+    value: "contacto@Paradise.Tattoo.Shop.com",
+    href: "mailto:contacto@Paradise.Tattoo.Shop.com",
   },
 ]
 
@@ -41,14 +41,14 @@ const socialLinks = [
   {
     icon: Instagram,
     label: "Instagram",
-    href: "https://instagram.com/inkstudio",
-    handle: "@inkstudio",
+    href: "https://www.instagram.com/paradise.tattoo.shop/",
+    handle: "@paradise.tattoo.shop",
   },
   {
     icon: Facebook,
     label: "Facebook",
-    href: "https://facebook.com/",
-    handle: "Paradise",
+    href: "https://facebook.com/paradise.tattoo.shop",
+    handle: "Paradise Tattoo Shop",
   },
   {
     icon: MessageCircle,
@@ -217,10 +217,10 @@ export default function ContactoPage() {
             {/* Brand */}
             <div className="md:col-span-2">
               <h3 className="font-serif text-2xl font-bold text-foreground">
-                Paradise tattoos
+                Paradise Tattoo Shop
               </h3>
               <p className="mt-4 max-w-md text-muted-foreground">
-                Mas de 5 anos creando arte en la piel. Cada tatuaje cuenta una
+                Mas de 10 anos creando arte en la piel. Cada tatuaje cuenta una
                 historia unica. Somos tu estudio de confianza.
               </p>
             </div>
@@ -261,17 +261,17 @@ export default function ContactoPage() {
               <h4 className="mb-4 font-medium text-foreground">Contacto</h4>
               <div className="space-y-2 text-sm text-muted-foreground">
                 <p>+52 55 1234 5678</p>
-                <p>contacto@inkstudio.com</p>
+                <p>contacto@paradise.tattoo.shop.com</p>
                 <div className="flex gap-4 pt-2">
                   <Link
-                    href="https://instagram.com/inkstudio"
+                    href="https://instagram.com/paradise.tattoo.shop/"
                     target="_blank"
                     className="text-foreground transition-colors hover:text-muted-foreground"
                   >
                     <Instagram className="h-5 w-5" />
                   </Link>
                   <Link
-                    href="https://facebook.com/inkstudio"
+                    href="https://facebook.com/paradise.tattoo.shop"
                     target="_blank"
                     className="text-foreground transition-colors hover:text-muted-foreground"
                   >
@@ -292,7 +292,7 @@ export default function ContactoPage() {
           {/* Copyright */}
           <div className="mt-12 border-t border-border pt-6 text-center text-sm text-muted-foreground">
             <p>
-              Paradise Tattos. Todos los derechos reservados.
+              paradise tattoo shop. Todos los derechos reservados.
             </p>
           </div>
         </footer>

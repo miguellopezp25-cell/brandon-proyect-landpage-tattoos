@@ -41,7 +41,7 @@ export function Sidebar() {
           <span className="text-xl font-bold text-sidebar-foreground">INK</span>
         ) : (
           <span className="text-xl font-bold tracking-wider text-sidebar-foreground">
-            Paradise Tattoos
+           paradise.tattoo.shop
           </span>
         )}
       </div>

@@ -12,7 +12,7 @@ export default function HomePage() {
           {/* Left - Artist Info */}
           <div className="flex flex-col justify-center">
             <span className="mb-4 text-sm font-medium uppercase tracking-widest text-muted-foreground">
-              Artista Brando Rodriguez
+              Artista Brandon Rodriguez
             </span>
             <h1 className="mb-6 font-serif text-4xl font-bold leading-tight text-foreground md:text-5xl lg:text-6xl">
               <span className="text-balance">
@@ -20,7 +20,7 @@ export default function HomePage() {
               </span>
             </h1>
             <p className="mb-8 max-w-lg text-lg leading-relaxed text-muted-foreground">
-              Con mas de 5 anos de experiencia, transformo ideas en obras de arte unicas. 
+              Con mas de 10 anos de experiencia, transformo ideas en obras de arte unicas. 
               Mi pasion es crear tatuajes que cuenten tu historia y reflejen tu personalidad. 
               Cada diseno es una pieza exclusiva, trabajada con precision y dedicacion.
             </p>
@@ -43,7 +43,7 @@ export default function HomePage() {
                 <p className="text-sm text-muted-foreground">Anos de experiencia</p>
               </div>
               <div>
-                <p className="font-serif text-3xl font-bold text-foreground">100+</p>
+                <p className="font-serif text-3xl font-bold text-foreground">2000+</p>
                 <p className="text-sm text-muted-foreground">Tatuajes realizados</p>
               </div>
               <div>

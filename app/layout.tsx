@@ -15,9 +15,9 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'Paradise Tattos | Tatuajes Profesionales',
+  title: 'Paradise Tattoo Shop | Tatuajes Profesionales',
   description: 'Estudio de tatuajes profesional. Arte en tu piel con los mejores artistas y la mas alta calidad.',
-  generator: 'v0.app',
+  generator: '',
   icons: {
     icon: [
       {

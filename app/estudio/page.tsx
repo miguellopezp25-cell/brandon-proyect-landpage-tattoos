@@ -40,7 +40,7 @@ const studioImages = [
     title: "Equipamiento",
   },
   {
-    src: "/images/studio-3.jpg",
+    src: "/images/artist-tatoo.png",
     alt: "Proceso de tatuaje",
     title: "En Accion",
   },
